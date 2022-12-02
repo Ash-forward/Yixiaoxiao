@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/needs/needs",
+    "pages/my/my",
+    "pages/message/message",
+    "pages/detail/detail",
+    "pages/class/class"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "易小小",
+    "navigationBarBackgroundColor": "#ffde37"
+  },
+  "tabBar": {
+    "selectedColor": "#000000",
+    "backgroundColor": "#fafafa",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "static/navigator/icon4.png",
+        "selectedIconPath": "static/navigator/icon2.png"
+      },
+      {
+        "pagePath": "pages/needs/needs",
+        "text": "我的需求",
+        "iconPath": "static/navigator/sent.png",
+        "selectedIconPath": "static/navigator/sent_select.png"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "text": "消息",
+        "iconPath": "static/navigator/message.png",
+        "selectedIconPath": "static/navigator/message_select.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/navigator/me.png",
+        "selectedIconPath": "static/navigator/me_select.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "有您的位置将有利于我们更好的服务（不会用作其余用途）"
+    }
+  },
+  "requiredPrivateInfos": [
+    "getLocation"
+  ],
+  "usingComponents": {}
+}

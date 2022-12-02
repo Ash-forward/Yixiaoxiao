@@ -1,0 +1,57 @@
+
+.float_button.data-v-23be3134{
+		position: fixed;
+		right: 15px;
+		bottom: 10px;
+		opacity: 0;
+		transition-property: opacity;
+		transition-duration: 250ms;
+		z-index: 5;
+}
+.back_top_show.data-v-23be3134{
+		opacity: 1;
+}
+.G1_new.data-v-23be3134{
+		float: left;
+		
+		overflow: hidden;
+}
+.G1_new_item.data-v-23be3134{
+		width:  160px;
+		min-height: 240px;
+		margin-top : 20px;
+		background-color: white;
+		border-radius: 20px; 
+		overflow: hidden;
+		transition: all 300ms;
+}
+.mark.data-v-23be3134{
+		overflow: hidden;
+		width: 50px;
+		height: 15px;
+		border-radius: 4px;
+		border: solid 1px #dcdcdc;
+}
+.style1.data-v-23be3134 {
+		background-color: black;
+}
+.style2.data-v-23be3134 {
+		background-color: greenyellow;
+}
+.style3.data-v-23be3134{
+		background-color: rgb(191, 214, 73);
+}
+.style4.data-v-23be3134{
+		background-color: rgb(220, 222, 85);
+}
+.style5.data-v-23be3134{
+		background-color: rgb(214, 90, 52);
+}
+.title.data-v-23be3134{
+		font-size: 12px;
+}
+.moneny.data-v-23be3134{
+		height: 100%;
+		position: relative;
+		top: 2px;
+}

@@ -1,0 +1,12 @@
+{
+  "component": true,
+  "usingComponents": {
+    "g1-new": "./home_content/G1_new",
+    "g1-makeup": "./home_content/G1_makeup",
+    "g1-book": "./home_content/G1_book",
+    "g1-other": "./home_content/G1_other",
+    "uni-notice-bar": "../../../uni_modules/uni-notice-bar/components/uni-notice-bar/uni-notice-bar",
+    "uni-transition": "../../../uni_modules/uni-transition/components/uni-transition/uni-transition",
+    "uni-icons": "../../../uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

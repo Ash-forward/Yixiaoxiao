@@ -1,0 +1,16 @@
+{
+  "usingComponents": {
+    "g1-new": "../home/components/home_content/G1_new",
+    "g1-makeup": "../home/components/home_content/G1_makeup",
+    "g1-book": "../home/components/home_content/G1_book",
+    "g1-bag": "./navigator_top/bag",
+    "g1-clothe": "./navigator_top/chloth",
+    "g1-hair": "./navigator_top/hair",
+    "g1-shcoolbag": "./navigator_top/shcoolbag",
+    "g1-notebook": "./navigator_top/notebook",
+    "g1-food": "./navigator_top/food",
+    "g1-other": "../home/components/home_content/G1_other",
+    "uni-icons": "../../uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "uni-nav-bar": "../../uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar"
+  }
+}

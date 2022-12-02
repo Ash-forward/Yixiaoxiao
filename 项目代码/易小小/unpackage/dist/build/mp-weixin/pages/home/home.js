@@ -1,0 +1,1 @@
+"use strict";var e=require("../../common/vendor.js");const n={components:{Search:()=>"./components/search.js",Content:()=>"./components/content.js"}};if(!Array){(e.resolveComponent("Search")+e.resolveComponent("Content"))()}var o=e._export_sfc(n,[["render",function(e,n,o,r,t,c){return{}}]]);wx.createPage(o);
