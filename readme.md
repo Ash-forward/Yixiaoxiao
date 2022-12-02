@@ -22,7 +22,7 @@
 
 注：本项目采用uni-app，vue.js 开发。
 
-<image src = "QR_code.png"> </image>
+<image src = "/QR_code.png"> </image>
 
 
 
