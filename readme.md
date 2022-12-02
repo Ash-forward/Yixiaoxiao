@@ -22,7 +22,7 @@
 
 注：本项目采用uni-app，vue.js 开发。
 
-<image src = "https://github.com/Ash-forward/Yixiaoxiao/blob/master/index.png"> </image>
+![Image](https://github.com/Ash-forward/Yixiaoxiao/blob/master/index.png)
 
 
 
