@@ -20,7 +20,7 @@
 ---
 
 
-###若要预览项目可  <font style=color:red>扫描</font> 下方小程序码
+### 若要预览项目可  <font style=color:red>下载</font> 下方小程序码进行体验
 
 注：本项目采用uni-app，vue.js 开发。
 
